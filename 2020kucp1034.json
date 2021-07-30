@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Manish kumawat",
+		"label": "Student",
+		"picture":"https://avatars.githubusercontent.com/u/88154535?s=400&u=cc9a5c4ec4453118a8deaa7da63fd80c7687a3e1&v=4",
+		"email": "2020KUCP1034@IIITKOTA.AC.IN",
+		"phone": "+91 8209550312",
+		
+		"summary": "2st year student of IIITKOTA  ",
+		"location": {
+			"address": " Bassi naga via-kalwar, JAIPUR ",
+			"postalCode": "303706",
+			"city": "JAIPUR",
+			"countryCode": "India",
+			"region": "RAJASTHAN"
+		},
+		"profiles": [
+				
+			
+				
+			
+			{
+				"network": "Github",
+				"username": "manish kumawa",
+				"url": "https://github.com/manishkumawa/"
+			},
+			{
+				"network": "linkedin",
+				"username": "manish kumawat",
+				"url": "https://www.linkedin.com/in/manish-kumawat-b78859211"
+			},
+			{
+				"network": "Instagram",
+				"username": "manishkumawat144",
+				"url": "https://www.instagram.com/manishkumawat144"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "1st semester = 7.44",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "beginner",
+		"keywords": ["HTML", "CSS", "Javascript","C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["cricket", "Badminton"]
+	}],
+	"references": []
+}
