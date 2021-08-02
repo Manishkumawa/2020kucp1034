@@ -40,8 +40,8 @@
 		"company": "---",
 		"position": "----",
 		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
+		"startDate": "",
+		"endDate": "",
 		"summary": "---Tell me something About Org. --- ",
 		"highlights": ["Add Highlights", "Your work details"]
 	}],
@@ -49,7 +49,7 @@
 		"organization": "---Name Org ---",
 		"position": "---Add ---",
 		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
+		"startDate": "",
 		"endDate": "---",
 		"summary": "Description...",
 		"highlights": []
@@ -58,7 +58,7 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2018-04-08 ",
 		"endDate": "----",
 		"gpa": "1st semester = 7.44",
 		"courses": [
@@ -68,7 +68,7 @@
 	"awards": [{
 		"title": "--Title---",
 		"awarder": "---Receiverd By ---",
-		"date": "//Date"
+		"date": ""
 	}],
 	"publications": [{
 		"title": "---Enter Title---",
