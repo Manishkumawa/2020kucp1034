@@ -66,14 +66,14 @@
 		]
 	}],
 	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
+		"title": " ",
+		"awarder": " ",
 		"date": ""
 	}],
 	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"title": " ",
+		"details": " ",
+		"link": " "
 	}],
 	"skills": [{
 		"level": "beginner",
