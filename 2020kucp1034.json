@@ -42,16 +42,16 @@
 		"website": "----",
 		"startDate": "",
 		"endDate": "",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
+		"summary": "",
+		"highlights": "
 	}],
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
+		"organization": "--- ---",
+		"position": "--- ---",
 		"website": "---",
 		"startDate": "",
 		"endDate": "---",
-		"summary": "Description...",
+		"summary": "",
 		"highlights": []
 	}],
 	"education": [{
